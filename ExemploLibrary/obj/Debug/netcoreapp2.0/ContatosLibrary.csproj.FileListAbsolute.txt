@@ -1,0 +1,8 @@
+E:\gdrive\H-References\H-References-Working\ENSINO\Semestres\2017.2\2017.2-LP2\2017-2-Prep-Aulas\ContatosLibrary\bin\Debug\netcoreapp2.0\ContatosLibrary.deps.json
+E:\gdrive\H-References\H-References-Working\ENSINO\Semestres\2017.2\2017.2-LP2\2017-2-Prep-Aulas\ContatosLibrary\bin\Debug\netcoreapp2.0\ContatosLibrary.dll
+E:\gdrive\H-References\H-References-Working\ENSINO\Semestres\2017.2\2017.2-LP2\2017-2-Prep-Aulas\ContatosLibrary\bin\Debug\netcoreapp2.0\ContatosLibrary.pdb
+E:\gdrive\H-References\H-References-Working\ENSINO\Semestres\2017.2\2017.2-LP2\2017-2-Prep-Aulas\ContatosLibrary\obj\Debug\netcoreapp2.0\ContatosLibrary.csproj.CoreCompileInputs.cache
+E:\gdrive\H-References\H-References-Working\ENSINO\Semestres\2017.2\2017.2-LP2\2017-2-Prep-Aulas\ContatosLibrary\obj\Debug\netcoreapp2.0\ContatosLibrary.AssemblyInfoInputs.cache
+E:\gdrive\H-References\H-References-Working\ENSINO\Semestres\2017.2\2017.2-LP2\2017-2-Prep-Aulas\ContatosLibrary\obj\Debug\netcoreapp2.0\ContatosLibrary.AssemblyInfo.cs
+E:\gdrive\H-References\H-References-Working\ENSINO\Semestres\2017.2\2017.2-LP2\2017-2-Prep-Aulas\ContatosLibrary\obj\Debug\netcoreapp2.0\ContatosLibrary.dll
+E:\gdrive\H-References\H-References-Working\ENSINO\Semestres\2017.2\2017.2-LP2\2017-2-Prep-Aulas\ContatosLibrary\obj\Debug\netcoreapp2.0\ContatosLibrary.pdb
