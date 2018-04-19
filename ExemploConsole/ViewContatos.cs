@@ -26,20 +26,24 @@ namespace ExemploConsole
 
                 // Lê a resposta
                 HttpResponseMessage resp = await cliente.GetAsync("/api/contatos");
-                var dados = await resp.Content.ReadAsStringAsync();
 
-                // Além do get:
-                // cliente.PostAsync(...)
-                //cliente.PutAsync(...)
-                //cliente.DeleteAsync(...)
-
-                // Deserializa a string, para obter uma lista de objetos contatos
-                var contatos = JsonConvert.DeserializeObject<List<Contato>>(dados);
-
-                // Exibe os dados
-                foreach (var contato in contatos)
+                if (resp.IsSuccessStatusCode)
                 {
-                    Console.WriteLine(contato.Nome);
+                    var dados = await resp.Content.ReadAsStringAsync();
+
+                    // Além do get:
+                    // cliente.PostAsync(...)
+                    //cliente.PutAsync(...)
+                    //cliente.DeleteAsync(...)
+
+                    // Deserializa a string, para obter uma lista de objetos contatos
+                    var contatos = JsonConvert.DeserializeObject<List<Contato>>(dados);
+
+                    // Exibe os dados
+                    foreach (var contato in contatos)
+                    {
+                        Console.WriteLine(contato.Nome);
+                    }
                 }
             }
             catch (Exception e)
