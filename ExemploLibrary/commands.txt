@@ -1,0 +1,52 @@
+﻿-----------------------------------
+Configurar o Projeto (Definir o provedor do BD Utilizado)
+	- Microsoft SQL Server
+		$ dotnet add package Microsoft.EntityFrameworkCore.SqlServer
+
+	- MySQL
+		$ dotnet add package MySql.Data.EntityFrameworkCore
+		$ dotnet add package Microsoft.EntityFrameworkCore.Sqlite
+
+	- PostgreSQL
+		# dotnet add package Npgsql.EntityFrameworkCore.PostgreSQL
+
+
+
+
+-----------------------------------
+Usar um banco
+
+        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+        {
+            optionsBuilder.UseSqlite("Data Source=store.db");
+			optionsBuilder.UseSqlServer(...);
+			// etc.
+        }
+
+-----------------------------------
+String de conexão no arquivo de configuração
+
+	{
+	  "ConnectionStrings": {
+		"StoreDB": "Data Source=store.db"
+	  },
+	}
+
+-----------------------------------
+Obtendo a string de conexão
+	Configuration.ConnectionString("StoreDB")
+
+-----------------------------------
+Instale os seguintes pacotes no seu projeto ($ dotnet add package nome-do-pacote):
+	Microsoft.Extensions.Configuration
+	Microsoft.Extensions.Configuration.FileExtensions
+	Microsoft.Extensions.Configuration.Json
+
+-----------------------------------
+Criar e executar uma migração
+
+$ dotnet ef migrations add CreateDatabase
+(ou no Visual Studio->Package Manager Console: Add-Migration CreateDatabase)
+
+$ dotnet ef database update
+(ou no Visual Studio->Package Manager Console: Update-Database)

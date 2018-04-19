@@ -1,0 +1,8 @@
+﻿-----------------------------
+Metapackage Microsoft.AspNetCore.All
+	- Contém todos os pacotes necessários
+		- Razor packages, MVC packages, Entity Framework Core packages ...
+
+-----------------------------
+Executar a aplicação
+$ dotnet run

@@ -7,3 +7,12 @@ E:\gdrive\H-References\H-References-Working\ENSINO\Semestres\2017.2\2017.2-LP2\2
 E:\gdrive\H-References\H-References-Working\ENSINO\Semestres\2017.2\2017.2-LP2\2017-2-Prep-Aulas\ContatosLibrary\obj\Debug\netcoreapp2.0\ExemploLibrary.AssemblyInfo.cs
 E:\gdrive\H-References\H-References-Working\ENSINO\Semestres\2017.2\2017.2-LP2\2017-2-Prep-Aulas\ContatosLibrary\obj\Debug\netcoreapp2.0\ExemploLibrary.dll
 E:\gdrive\H-References\H-References-Working\ENSINO\Semestres\2017.2\2017.2-LP2\2017-2-Prep-Aulas\ContatosLibrary\obj\Debug\netcoreapp2.0\ExemploLibrary.pdb
+E:\gdrive\H-References\H-References-Working\ENSINO\Semestres\2017.2\2017.2-LP2\2017-2-Prep-Aulas\ExemploWebApi\ExemploLibrary\bin\Debug\netcoreapp2.0\ExemploLibrary.deps.json
+E:\gdrive\H-References\H-References-Working\ENSINO\Semestres\2017.2\2017.2-LP2\2017-2-Prep-Aulas\ExemploWebApi\ExemploLibrary\bin\Debug\netcoreapp2.0\ExemploLibrary.dll
+E:\gdrive\H-References\H-References-Working\ENSINO\Semestres\2017.2\2017.2-LP2\2017-2-Prep-Aulas\ExemploWebApi\ExemploLibrary\bin\Debug\netcoreapp2.0\ExemploLibrary.pdb
+E:\gdrive\H-References\H-References-Working\ENSINO\Semestres\2017.2\2017.2-LP2\2017-2-Prep-Aulas\ExemploWebApi\ExemploLibrary\obj\Debug\netcoreapp2.0\ExemploLibrary.csprojResolveAssemblyReference.cache
+E:\gdrive\H-References\H-References-Working\ENSINO\Semestres\2017.2\2017.2-LP2\2017-2-Prep-Aulas\ExemploWebApi\ExemploLibrary\obj\Debug\netcoreapp2.0\ExemploLibrary.csproj.CoreCompileInputs.cache
+E:\gdrive\H-References\H-References-Working\ENSINO\Semestres\2017.2\2017.2-LP2\2017-2-Prep-Aulas\ExemploWebApi\ExemploLibrary\obj\Debug\netcoreapp2.0\ExemploLibrary.AssemblyInfoInputs.cache
+E:\gdrive\H-References\H-References-Working\ENSINO\Semestres\2017.2\2017.2-LP2\2017-2-Prep-Aulas\ExemploWebApi\ExemploLibrary\obj\Debug\netcoreapp2.0\ExemploLibrary.AssemblyInfo.cs
+E:\gdrive\H-References\H-References-Working\ENSINO\Semestres\2017.2\2017.2-LP2\2017-2-Prep-Aulas\ExemploWebApi\ExemploLibrary\obj\Debug\netcoreapp2.0\ExemploLibrary.dll
+E:\gdrive\H-References\H-References-Working\ENSINO\Semestres\2017.2\2017.2-LP2\2017-2-Prep-Aulas\ExemploWebApi\ExemploLibrary\obj\Debug\netcoreapp2.0\ExemploLibrary.pdb

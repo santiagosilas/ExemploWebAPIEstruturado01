@@ -32,7 +32,7 @@ namespace ExemploWebApi
           //services.AddDbContext<DataContext>(opt => opt.UseInMemoryDatabase("LP2Contatos"));
 
           // Banco de Dados SQL Server  é injetado no container de serviço
-          services.AddDbContext<DataContext>(options => options.UseSqlServer(Configuration.GetConnectionString("LP2Contatos")));
+          services.AddDbContext<DataContext>(options => options.UseSqlServer(Configuration.GetConnectionString("LP2Exemplo")));
 
           services.AddMvc();
           services.AddScoped<IContatoRepositorio, ContatoRepositorio>();

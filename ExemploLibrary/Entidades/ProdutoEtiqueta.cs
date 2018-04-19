@@ -1,7 +1,12 @@
-﻿namespace ExemploLibrary.Entidades
+﻿using System.ComponentModel.DataAnnotations.Schema;
+
+namespace ExemploLibrary.Entidades
 {
-    public class ProdutoEtiqueta
+    public class ProdutoEtiqueta : IEntidade
     {
+        [NotMapped]
+        public long Id { get; set; }
+
         public int ProdutoId { get; set; }
         public int EtiquetaId { get; set; }
         public Produto Produto { get; set; }

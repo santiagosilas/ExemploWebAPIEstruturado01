@@ -33,7 +33,7 @@ namespace ExemploLibrary.Contextos
                 .Build();
 
             // Define a base de dados a ser usada
-            var cnn = config.GetConnectionString("LP2Contatos");
+            var cnn = config.GetConnectionString("LP2Exemplo");
             optionsBuilder.UseSqlServer(cnn);
         }
 
@@ -41,7 +41,7 @@ namespace ExemploLibrary.Contextos
         {
             // Relacionamento Many-to-Many (chaves compostas)
             modelBuilder.Entity<ProdutoEtiqueta>()
-                .HasKey(pt => new { ProductId = pt.ProdutoId, TagId = pt.EtiquetaId });
+                .HasKey(pt => new { ProdutoId = pt.ProdutoId, EtiquetaId = pt.EtiquetaId });
 
             // Chaves Únicas
             modelBuilder.Entity<Cliente>().HasIndex(c => c.PessoaId).IsUnique(true);

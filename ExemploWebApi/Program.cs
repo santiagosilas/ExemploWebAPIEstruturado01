@@ -20,7 +20,7 @@ namespace ExemploWebApi
             .Build();
         var host = new WebHostBuilder()
             .UseKestrel()
-            .UseUrls("http://*:63637")
+            .UseUrls("http://*:4242")
             .UseContentRoot(Directory.GetCurrentDirectory())
             .UseStartup<Startup>()
             .UseConfiguration(config)

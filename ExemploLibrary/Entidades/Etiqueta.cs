@@ -2,9 +2,9 @@
 
 namespace ExemploLibrary.Entidades
 {
-    public class Etiqueta
+    public class Etiqueta : IEntidade
     {
-        public int Id { get; set; }
+        public long Id { get; set; }
         public string Nome { get; set; }
         public virtual ICollection<ProdutoEtiqueta> ProdutoEtiqueta { get; set; }
 

@@ -1,8 +1,8 @@
 ﻿namespace ExemploLibrary.Entidades
 {
-    public class Pessoa
+    public class Pessoa : IEntidade
     {
-        public int Id { get; set; }
+        public long Id { get; set; }
         public string Nome { get; set; }
 
         public virtual Cliente Cliente { get; set; }

@@ -11,3 +11,16 @@ E:\gdrive\H-References\H-References-Working\ENSINO\Semestres\2017.2\2017.2-LP2\2
 E:\gdrive\H-References\H-References-Working\ENSINO\Semestres\2017.2\2017.2-LP2\2017-2-Prep-Aulas\ContatosWebApi3\obj\Debug\netcoreapp2.0\ExemploWebApi.pdb
 E:\gdrive\H-References\H-References-Working\ENSINO\Semestres\2017.2\2017.2-LP2\2017-2-Prep-Aulas\ContatosWebApi3\bin\Debug\netcoreapp2.0\ExemploLibrary.dll
 E:\gdrive\H-References\H-References-Working\ENSINO\Semestres\2017.2\2017.2-LP2\2017-2-Prep-Aulas\ContatosWebApi3\bin\Debug\netcoreapp2.0\ExemploLibrary.pdb
+E:\gdrive\H-References\H-References-Working\ENSINO\Semestres\2017.2\2017.2-LP2\2017-2-Prep-Aulas\ExemploWebApi\ExemploWebApi\bin\Debug\netcoreapp2.0\ExemploWebApi.deps.json
+E:\gdrive\H-References\H-References-Working\ENSINO\Semestres\2017.2\2017.2-LP2\2017-2-Prep-Aulas\ExemploWebApi\ExemploWebApi\bin\Debug\netcoreapp2.0\ExemploWebApi.runtimeconfig.json
+E:\gdrive\H-References\H-References-Working\ENSINO\Semestres\2017.2\2017.2-LP2\2017-2-Prep-Aulas\ExemploWebApi\ExemploWebApi\bin\Debug\netcoreapp2.0\ExemploWebApi.runtimeconfig.dev.json
+E:\gdrive\H-References\H-References-Working\ENSINO\Semestres\2017.2\2017.2-LP2\2017-2-Prep-Aulas\ExemploWebApi\ExemploWebApi\bin\Debug\netcoreapp2.0\ExemploWebApi.dll
+E:\gdrive\H-References\H-References-Working\ENSINO\Semestres\2017.2\2017.2-LP2\2017-2-Prep-Aulas\ExemploWebApi\ExemploWebApi\bin\Debug\netcoreapp2.0\ExemploWebApi.pdb
+E:\gdrive\H-References\H-References-Working\ENSINO\Semestres\2017.2\2017.2-LP2\2017-2-Prep-Aulas\ExemploWebApi\ExemploWebApi\bin\Debug\netcoreapp2.0\ExemploLibrary.dll
+E:\gdrive\H-References\H-References-Working\ENSINO\Semestres\2017.2\2017.2-LP2\2017-2-Prep-Aulas\ExemploWebApi\ExemploWebApi\bin\Debug\netcoreapp2.0\ExemploLibrary.pdb
+E:\gdrive\H-References\H-References-Working\ENSINO\Semestres\2017.2\2017.2-LP2\2017-2-Prep-Aulas\ExemploWebApi\ExemploWebApi\obj\Debug\netcoreapp2.0\ExemploWebApi.csprojResolveAssemblyReference.cache
+E:\gdrive\H-References\H-References-Working\ENSINO\Semestres\2017.2\2017.2-LP2\2017-2-Prep-Aulas\ExemploWebApi\ExemploWebApi\obj\Debug\netcoreapp2.0\ExemploWebApi.csproj.CoreCompileInputs.cache
+E:\gdrive\H-References\H-References-Working\ENSINO\Semestres\2017.2\2017.2-LP2\2017-2-Prep-Aulas\ExemploWebApi\ExemploWebApi\obj\Debug\netcoreapp2.0\ExemploWebApi.AssemblyInfoInputs.cache
+E:\gdrive\H-References\H-References-Working\ENSINO\Semestres\2017.2\2017.2-LP2\2017-2-Prep-Aulas\ExemploWebApi\ExemploWebApi\obj\Debug\netcoreapp2.0\ExemploWebApi.AssemblyInfo.cs
+E:\gdrive\H-References\H-References-Working\ENSINO\Semestres\2017.2\2017.2-LP2\2017-2-Prep-Aulas\ExemploWebApi\ExemploWebApi\obj\Debug\netcoreapp2.0\ExemploWebApi.dll
+E:\gdrive\H-References\H-References-Working\ENSINO\Semestres\2017.2\2017.2-LP2\2017-2-Prep-Aulas\ExemploWebApi\ExemploWebApi\obj\Debug\netcoreapp2.0\ExemploWebApi.pdb
